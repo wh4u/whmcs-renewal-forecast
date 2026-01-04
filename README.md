@@ -117,13 +117,6 @@ If your goal is purely cash-flow (what invoices are due and unpaid), you should 
 
 ---
 
-## License
-
-Choose a license for your repository (recommended: **MIT**).
-You can add a `LICENSE` file with the MIT text.
-
----
-
 ## Support / Contributions
 
 Issues and pull requests are welcome.
@@ -132,11 +125,5 @@ If you contribute improvements:
 - Keep compatibility with WHMCS 8.x
 - Avoid heavy UI frameworks (use WHMCS admin/Bootstrap styling)
 - Ensure queries stay efficient (large WHMCS databases)
-
----
-
-## Screenshot (optional)
-
-Add a screenshot of the report UI here for easier adoption.
 
 
